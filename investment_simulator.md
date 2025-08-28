@@ -1,5 +1,5 @@
 Investment Simulator
-Datetime: 2025-08-28T20-56-13.604402
+Datetime: 2025-08-28T20-57-04.411312
 	Tax 1.2000%
 	Tax in 12 Periods 12.3632%
 	Periods 360
