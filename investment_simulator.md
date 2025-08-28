@@ -1,0 +1,9 @@
+Investment Simulator
+Datetime: 2025-08-28T20-56-13.604402
+	Tax 1.2000%
+	Tax in 12 Periods 12.3632%
+	Periods 360
+	Initial Deposit 500.00
+	Last Deposit 1944.00
+	Total Amount 4.96mi
+
